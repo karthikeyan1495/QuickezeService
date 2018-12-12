@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Quickezeservice</string>
+
+    <!--login-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="request_otp">Request OTP</string>
+
+
+    <!--update password-->
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!--service request-->
+    <string name="service_Requrest">Service Request</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="click_here">Click here</string>
+
+    <!--service request status-->
+    <string name="service_request_status">Service Request Accepted.</string>
+
+
+    <!--location-->
+    <string name="location">Location</string>
+    <string name="call">Call</string>
+
+
+
+    <!--invoice-->
+    <string name="invoice">Invoice</string>
+    <string name="collect_payment_by">Collect payment by</string>\
+    <string name="cash">Cash</string>
+    <string name="online">Online</string>
+
+
+
+    <!--status update -->
+    <string name="end_time">Your Service With <span style="color:#225f7e">Gandhinathan</span> has ended and total billing time is  <span style="color:#225f7e">04:35min</span> </string>
+    <string name="confirm">Confirm</string>
+
+    <!--service timer-->
+    <string name="service_time">Service Timer</string>
+    <string name="start_service">Start Service</string>
+    <string name="end_service">End Service</string>
+
+    <!--invoice cash -->
+    <string name="total_bill_is">Total Bill is</string>
+    <string name="tax">Tax</string>
+    <string name="payable_amount">Payable Amount</string>
+    <string name="kindly_pay_by_cash">Kindly pay by Cash</string>
+    <string name="kindly_pay_by_online">Kindly pay by Online</string>
+    
+    
+    
+    <!--rating-->
+    <string name="thankyou_foryour_payment">Thank You for the payment</string>
+    <string name="kindly_rate_our_service">Kindly rate our service</string>
+    <string name="submit">Submit</string>
+    
+
+    <!--api error handler-->
+    <string name="something_went_wrong_while_retrieving_information">Something went wrong while retrieving information</string>
+    <string name="no_internet">No internet</string>
+
+
+    <!--api-->
+    <string name="base_url">http://csnathan.com/quickeze/webservice/Api/</string>
+
+</resources>
